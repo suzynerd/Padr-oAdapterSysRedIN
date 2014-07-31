@@ -1,0 +1,27 @@
+
+body {
+    margin: 0 auto;
+    padding-top: 70px;
+    width: 1000px;
+}
+.login {
+    margin: 0 auto;
+    width: 540px;
+}
+.login .form-group {
+    margin: 10px 20px 5px;
+    width: 490px;
+}
+.login button {
+    margin: 5px 0 5px 20px;
+}
+a.dropdown-toggle{
+    margin-right: 10px;
+}
+.mens{
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-top: 5px;
+	border: dashed;
+	text-align: center;
+}

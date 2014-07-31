@@ -1,0 +1,21 @@
+.well{
+	width: 400px;
+	min-height: 192px;
+	float: left;
+	margin: 48px;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+.well img{
+	border-radius: 10px;
+	float: left;
+}
+.well .info{
+	float: left;
+	width: 233px;
+}
+.well .info, .well .btn{
+	margin-left: 20px;
+}
+

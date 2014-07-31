@@ -1,0 +1,16 @@
+.jumbotron{
+	height: 250px;
+}
+.jumbotron .info, .jumbotron img{
+	float: left;
+}
+.jumbotron .info{
+	margin-left: 20px;
+	width: 750px;
+}
+.jumbotron a{
+	float: right;
+}
+.jumbotron .extra{
+	float: left;
+}

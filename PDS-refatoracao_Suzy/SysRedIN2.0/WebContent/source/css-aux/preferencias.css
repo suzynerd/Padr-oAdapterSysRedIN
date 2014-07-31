@@ -1,0 +1,18 @@
+aside{
+	width: 200px;
+}
+aside ul li{
+	width: 200px;
+	margin: 0;
+}
+.well, aside{
+	float: left;
+}
+.well{
+	width: 500px;
+	margin-left: 20px;
+}
+
+#main .forms button{
+	margin-top: 10px;
+}
